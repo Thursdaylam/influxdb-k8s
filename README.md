@@ -1,7 +1,7 @@
 # influxdb-k8s
-Simple example on how to set up influxDB on Kubernetes and a simple python server that read/writes to it.
+Simple example on how to set up influxDB on Kubernetes on a minikube cluster and a simple python server that read/writes to it.
 
-
+Assumes that you have minikube, python, kubernetes and python-influxdb installed.
 ## Getting Started
 
 ```
